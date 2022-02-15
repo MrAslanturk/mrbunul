@@ -10,7 +10,7 @@ I do content on Design, development and some code challenge solution. I also enj
 * 🅰️ Angular
 * 📱 Ionic
 * 💻 HTML / CSS /JS
-
+<hr>
 - 🔭 I’m currently working on .Net Core 5 - Real Estate Site 
 - 👯 I’m looking to collaborate on .Net Development 
 - 🤔 I’m looking for help with frontend development with React 
