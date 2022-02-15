@@ -4,7 +4,12 @@
 
 I do content on Design, development and some code challenge solution. I also enjoy ui, ux, and design in general.(But i don't have enough experience about that 🤦‍♂️😅, but i will learn and share here.)
 
-Skills: .Net Core / React / JS / HTML / CSS
+## Skills and Experience
+* ⌨️ .Net Core / C# / Java
+* ⚛️ React 
+* 🅰️ Angular
+* 📱 Ionic
+* 💻 HTML / CSS /JS
 
 - 🔭 I’m currently working on .Net Core 5 - Real Estate Site 
 - 👯 I’m looking to collaborate on .Net Development 
