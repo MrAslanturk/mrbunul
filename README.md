@@ -13,9 +13,9 @@ I do content on Design, development and some code challenge solution. I also enj
 
 <hr>
 
-- 🔭 I’m currently working on .Net Core 5 - Real Estate Site 
+- 🔭 I’m currently working on Java development
 - 👯 I’m looking to collaborate on .Net Development 
-- 🤔 I’m looking for help with frontend development with React 
+- 🤔 I’m looking for help with frontend development with React, and backend development with Java
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Mrbunul)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/bunulmert/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg' alt='stackoverflow' height='40'>](https://stackoverflow.com/users/18214921)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg' alt='YouTube' height='40'>](https://www.youtube.com/channel/UCN98WxQ5HRjMIqCVsVE9d3A)  
